@@ -6,3 +6,5 @@
 5. Operasi Matematika
 6. If Statements
 7. Loops
+8. User Input
+9. Loops
